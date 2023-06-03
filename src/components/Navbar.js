@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blog-maniac-8sydlhyji-shivam072001.vercel.app/"
+                href="https://blog-maniac-nine.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
