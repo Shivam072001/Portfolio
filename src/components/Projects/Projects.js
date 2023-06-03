@@ -27,7 +27,7 @@ function Projects() {
               title="Blog Maniac"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/Shivam072001/Blog-Maniac"
-              demoLink="https://blog-maniac-8sydlhyji-shivam072001.vercel.app/"
+              demoLink="https://blog-maniac-nine.vercel.app/"
             />
           </Col>
 
